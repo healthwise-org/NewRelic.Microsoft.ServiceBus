@@ -1,0 +1,10 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/obj
+/config/plugin.json
+/config/newrelic.json
+packages/
+packages.config

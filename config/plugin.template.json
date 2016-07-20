@@ -1,0 +1,12 @@
+﻿{
+  "agents": [
+    {
+        "name": "Windows Service Bus",
+        "connectionString": "Endpoint=sb://wsb.domain/Default;ManagementPort=9355;SharedAccessKeyName=NewRelic;SharedAccessKey=SECRETKEYHERE"
+    },
+    {
+        "name": "Azure",
+        "connectionString": "Endpoint=sb://domain.servicebus.windows.net/;SharedAccessKeyName=NewRelic;SharedAccessKey=SECRETKEYHERE"
+    }
+  ]
+}
